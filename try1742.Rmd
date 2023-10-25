@@ -1,0 +1,9 @@
+---
+title: "Worksheet 1"
+author: "Airy"
+date: "2023-10-25"
+output: pdf_document
+---
+
+## Question 1
+In the following, I count the number of different types of 'transType' in the web tracking data. I do this by grouping by the 'transType' variable and using the function 'count()'.
